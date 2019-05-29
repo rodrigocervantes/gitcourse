@@ -1,1 +1,2 @@
-# gitcourse
+# GitIntroduction
+Internal Git Introduction training
